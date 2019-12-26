@@ -1,5 +1,5 @@
-using Documenter, Example
+using Documenter, PrivateExample
 
-makedocs(modules = [Example], sitename = "Example.jl")
+makedocs(modules = [PrivateExample], sitename = "PrivateExample.jl")
 
-deploydocs(repo = "github.com/JuliaLang/Example.jl.git")
+deploydocs(repo = "github.com/vdayanand/PrivateExample.jl.git")
