@@ -1,4 +1,4 @@
-module Example
+module PrivateExample
 export hello, domath
 
 """
