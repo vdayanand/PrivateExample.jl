@@ -13,3 +13,5 @@ Windows: [![Build Status](https://ci.appveyor.com/api/projects/status/github/Jul
 [![deps](https://juliahub.com/docs/JLD2/deps.svg)](https://juliahub.com/ui/Packages/JLD2/O1EyT?t=2)
 
 [![version](https://juliahub.com/docs/JLD2/version.svg)](https://juliahub.com/ui/Packages/JLD2/O1EyT)
+
+[![version](https://juliahub.com/docs/SentinelArrays/version.svg)](https://juliahub.com/ui/Packages/SentinelArrays/uMYVe)
